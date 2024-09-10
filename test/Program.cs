@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Wogfvhjgjhf32323232rld!");
+﻿int a = 5;
+int b = 6;
+
+Console.WriteLine(Math.Pow(b));
